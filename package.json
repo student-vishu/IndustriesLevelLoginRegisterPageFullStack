@@ -1,0 +1,26 @@
+{
+  "name": "industries-level-login-register-page",
+  "version": "1.0.0",
+  "description": "industries level login-register page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/student-vishu/IndustriesLevelLoginRegisterPageFullStack.git"
+  },
+  "author": "Vishesh Gandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/student-vishu/IndustriesLevelLoginRegisterPageFullStack/issues"
+  },
+  "homepage": "https://github.com/student-vishu/IndustriesLevelLoginRegisterPageFullStack#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.10"
+  }
+}
